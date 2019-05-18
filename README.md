@@ -4,7 +4,7 @@
 ## How to use the Application
 *Note This only works on one machine, because all clients are connecting to the same IP address (localhost)*
 - First run Server.java
-- Once you have your server running, you are going to want to run an instance of Client
+- Once you have your server running, you are going to have to run an instance of Client
 - Then run another instance of Client
 - You will get a message on both instances of Client, prompting you to enter a choice of either R, P, or S to play.
 - After the game ends, both Clients are disconnected, and will provide an output of the winner. 
@@ -57,7 +57,7 @@
 
 <img src="https://i.gyazo.com/3931be296d8e2349a91b7c175bd956f7.png" width="60%">
 
-Once the server receives your choice, you cannot change it. Once the server saves a Player's choice, it cannot be changed. Even if you enter valid values like P or S after entering R, you are unable to change it. 
+Once the server saves a Player's choice, it cannot be changed. Even if you try to enter valid values like **P** or **S** after entering R, you are unable to change it, and the Server will determine the winner with the first valid input. 
 
 **Player 2 Output**
 
