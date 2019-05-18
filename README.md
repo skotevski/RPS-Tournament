@@ -13,10 +13,15 @@
 ## Sample Outputs
 ### Winning Game
 **Server Output**
+
 <img src="https://i.gyazo.com/a46db937350aa883368c97fa531b5ae7.png" width="40%">
 
+
 **Player 1 Output**
+
 <img src="https://i.gyazo.com/688e5333dea5553cddca410b465f1a95.png" width="40%">
 
+
 **Player 2 Output**
+
 <img src="https://i.gyazo.com/bd98700317973132ef23699e597a9651.png" width="40%">
